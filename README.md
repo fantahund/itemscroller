@@ -6,6 +6,10 @@ This is basically what NEI does/did (and Mouse Tweaks also seems to do), but sep
 and probably implemented in a different manner.
 For more information and the downloads (compiled builds), see http://minecraft.curseforge.com/projects/item-scroller
 
+Download
+=========
+https://jenkins.fantacs.de/job/ItemScroller/
+
 Compiling
 =========
 * Clone the repository
